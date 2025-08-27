@@ -1,4 +1,4 @@
-# Preprint: Impact of the 2011 Earthquake on Pharmaceutical Supply
+# Preprint: 日本の医薬品市場における東日本大震災の生産面の影響
 
 This repository hosts the preprint of my research paper.
 
@@ -7,4 +7,4 @@ This repository hosts the preprint of my research paper.
 
 ## Citation
 If you cite this work, please use:
-沢田拓哉 (2025)「日本の医薬品市場における東日本大震災の生産面の影響.」Preprint.
+沢田拓哉 (2025)「日本の医薬品市場における東日本大震災の生産面の影響」Preprint.
